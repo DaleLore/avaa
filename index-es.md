@@ -9,7 +9,7 @@ order: 1
 ---
 <img src="{{ site.baseurl }}/images/home_TBCProcessingError_NYU_Flat.jpg" height="315" width="520"><br>
 
-Bienvenidos
+Bienvenidos a 
 Welcome to AV Artifact Atlas IN SPANISH!!! But not yet, because we have to translate it...
 
 ...ahem..., a resource for identifying errors and anomalies in analog and digital video. AVAA is built for and by a community of professionals in the field of audiovisual archiving but useful for anyone working with av material. Check out our [About]({{ site.baseurl }}/about.html) page for more information about the project and the [Contributor's Guide]({{ site.baseurl }}/contributors_guide.html) for steps on how you can participate.
